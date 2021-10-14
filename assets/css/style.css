@@ -47,19 +47,3 @@
     display: inline-block;
     margin: auto;
 }
-
-.nav-link-style {
-    display: inline-block;
-    width: 15%;
-    height: 100%;
-    color: #49484c;
-    font-size: 12px;
-}
-
-.nav-link-style-active {
-    display: inline-block;
-    width: 15%;
-    height: 100%;
-    color: black;
-    font-size: 16px;
-}

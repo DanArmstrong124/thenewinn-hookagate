@@ -51,3 +51,35 @@
 
     transition-duration: 1s;
 }
+
+.par-nav-link-style {
+    display: inline-block;
+    width: 15%;
+    height: 100%;
+    color: #49484c;
+    font-size: 12px;
+}
+
+.par-nav-link-style-active {
+    display: inline-block;
+    width: 15%;
+    height: 100%;
+    color: black;
+    font-size: 16px;
+}
+
+.nav-link-style {
+    display: inline-block;
+    width: 15%;
+    height: 100%;
+    color: #49484c;
+    font-size: 18px;
+}
+
+.nav-link-style-active {
+    display: inline-block;
+    width: 15%;
+    height: 100%;
+    color: black;
+    font-size: 24px;
+}

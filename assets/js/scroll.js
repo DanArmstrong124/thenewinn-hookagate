@@ -2,6 +2,7 @@ const logo = document.getElementById('logo');
 const navbar = document.getElementById('nav');
 const sec1 = document.getElementById('sec1');
 
+
 window.onscroll = function() {
     var scrollPosition = document.documentElement.scrollTop || document.body.scrollTop;
 
@@ -12,7 +13,6 @@ window.onscroll = function() {
         navbar.classList.remove('nav');
         sec1.classList.add('par-sec1');
         sec1.classList.remove('sec1');
-    };
 
     if(scrollPosition <= 199){
         logo.classList.add("logo");
