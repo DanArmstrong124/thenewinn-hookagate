@@ -1,0 +1,43 @@
+.nav {
+    background-color: #dca123;
+    width: 100%;
+    height: 150px;
+    position: fixed;
+    
+    transition-duration: 1s;
+}
+
+.logo {
+    height: 150px;
+    margin-left:50px;
+
+    transition-duration: 1s;
+}
+
+.par-nav {
+    background-color: #dca123;
+    width: 100%;
+    height: 75px;
+    position: fixed;
+
+    transition-duration: 1s;
+}
+
+.par-logo {
+    height: 75px;
+    margin-left: 50px;
+
+    transition-duration: 1s;
+}
+
+.sec1 {
+    padding-top: 150px;
+
+    transition-duration: 1s;
+}
+
+.par-sec1 {
+    padding-top: 75px;
+
+    transition-duration: 1s;
+}
