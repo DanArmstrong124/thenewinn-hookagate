@@ -36,3 +36,25 @@
     font-size: 26px;
     padding-inline: 15%;
 }
+
+.logo-div {
+    width: 30%;
+}
+
+.links {
+    width: 70%;
+}
+
+.nav-link-style {
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    color: #49484c;
+}
+
+.nav-link-style-active {
+    display: inline-block;
+    width: 20%;
+    height: 100%;
+    color: black;
+}
