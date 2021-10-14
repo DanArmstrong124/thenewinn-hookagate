@@ -3,7 +3,7 @@
     height: 150px;
     position: fixed;
 
-    border-bottom: 1px solid #8a4e1d;
+    border-bottom: 3px solid #8a4e1d;
     
     transition-duration: 1s;
 }
@@ -21,7 +21,7 @@
     height: 75px;
     position: fixed;
 
-    border-bottom: #8a4e1d;
+    border-bottom: 1px solid #8a4e1d;
 
     transition-duration: 1s;
 }
