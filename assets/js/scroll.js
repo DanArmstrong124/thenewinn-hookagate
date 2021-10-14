@@ -14,6 +14,8 @@ window.onscroll = function() {
         sec1.classList.add('par-sec1');
         sec1.classList.remove('sec1');
 
+    }
+
     if(scrollPosition <= 199){
         logo.classList.add("logo");
         logo.classList.remove("par-logo");
