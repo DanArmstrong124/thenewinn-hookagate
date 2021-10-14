@@ -19,6 +19,7 @@ window.onscroll = function() {
         contact.classList.remove('nav-link-style');
         menu.classList.remove('nav-link-style');
         gallery.classList.remove('nav-link-style');
+    }
 
     if(scrollPosition <= 199){
         home.classList.remove('par-nav-link-style-active');

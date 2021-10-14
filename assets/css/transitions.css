@@ -58,6 +58,9 @@
     height: 100%;
     color: #49484c;
     font-size: 12px;
+    border-bottom: 1px solid #49484c;
+
+    transition-duration: 1s;
 }
 
 .par-nav-link-style-active {
@@ -66,6 +69,9 @@
     height: 100%;
     color: black;
     font-size: 16px;
+    border-bottom: 5px solid black;
+
+    transition-duration: 1s;
 }
 
 .nav-link-style {
@@ -74,6 +80,9 @@
     height: 100%;
     color: #49484c;
     font-size: 18px;
+    border-bottom: 1px solid #49484c;
+
+    transition-duration: 1s;
 }
 
 .nav-link-style-active {
@@ -82,4 +91,7 @@
     height: 100%;
     color: black;
     font-size: 24px;
+    border-bottom: 5px solid black;
+
+    transition-duration: 1s;
 }
