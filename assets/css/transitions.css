@@ -36,12 +36,18 @@
 
 .sec1 {
     padding-top: 164px;
+    padding-bottom: 14px;
+
+    border-bottom: 3px solid #8a4e1d;
 
     transition-duration: 1s;
 }
 
 .par-sec1 {
     padding-top: 82px;
+    padding-bottom: 7px;
+
+    border-bottom: 3px solid #8a4e1d;
 
     transition-duration: 1s;
 }
